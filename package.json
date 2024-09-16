@@ -1,0 +1,20 @@
+{
+  "name": "webdigital-api",
+  "version": "1.0.0",
+  "description": "Library to call public WebDigital APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "WebDigital",
+  "type": "module",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matrix-marketing/webdigital-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matrix-marketing/webdigital-api/issues"
+  },
+  "homepage": "https://github.com/matrix-marketing/webdigital-api#readme"
+}
